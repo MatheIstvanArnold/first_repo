@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Oswald:wght@500&display=swap');
+body{background-color: white;}
+  h1,h2,h3{
+background-color : white;
+font-family: 'Agbalumo', sans-sherif;
+}
+
+
+img{
+width:300px;
+height:300px;
+margin-left:100px;
+}
+
+
+table,th,td{
+border:1px solid black;
+}
+.red-text { color : red;}
+#rounded-img {border-radius:200px;}
+li{border:2px solid Tomato;}
+
+
+
