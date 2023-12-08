@@ -1,0 +1,29 @@
+
+   @import url('https://fonts.google.com/specimen/Roboto family=Roboto:ital,whgt@0,100;0,700;1,100 %display=swap');
+
+h1,h2,h3{
+background-color: white;
+font-family: 'Roboto', sans-serif;
+}
+
+#imageContainer {
+  display: none;
+}
+
+img{
+width: 200px;
+height:200px;
+margin-left:50px;
+}
+.black-text{color:black;}
+#rounded-img{border-radius:100px;}
+li{border:2px solid black;}
+
+ .transparent-image {
+    opacity: 0.5; /* Setează opacitatea la 50% */
+  }
+
+
+ table th,td {
+border:2px solid black
+  }s
